@@ -2,13 +2,13 @@
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; WELCOME TO MOHAMED EL AMINE PROFILE &nbsp;
+  &nbsp; WELCOME TO MOHAMMED EL AMINE PROFILE &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
 
 
-![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWLycnroK3m9ziU-XC1yJsE9JzQoXHv9P5A&usqp=CAU)
+
 - ![Alt text](https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)
 
 
@@ -16,20 +16,20 @@
 
 > MY PROFILE VISITORS :
 
-![Visitor Count](https://profile-counter.glitch.me/MOHAMED-143/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/MOHAMMED-143/count.svg)
 
-- ![Profile views](https://gpvc.arturio.dev/MOHAMED-143)
-- [![GitHub followers](https://img.shields.io/github/followers/MOHAMED-143.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/MOHAMED-143?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/MOHAMMED-143)
+- [![GitHub followers](https://img.shields.io/github/followers/MOHAMMED-143.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/MOHAMMED-143?tab=followers)
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
 > GITHUB STATES :
 
-<a href="https://github.com/MOHAMED-143"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MOHAMED-143&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/MOHAMMED-143"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MOHAMMED-143&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MOHAMED-143&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MOHAMMED-143&theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MOHAMED-143&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MOHAMMED-143&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
@@ -39,11 +39,11 @@
 
 
 <a href="https://fb.com/MR.SABBIR.OFFICIAL404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MR.SABBIR.OFFICIAL404" height="30" width="40" /></a>
-<a href="https://github.com/MOHAMED-143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/MR.SABBIR.OFFICIAL404" height="30" width="40" /></a>
+<a href="https://github.com/MOHAMMED-143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/MR.SABBIR.OFFICIAL404" height="30" width="40" /></a>
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MOHAMED-143) <a href="https://github.com/MOHAMED-143"></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MOHAMMED-143) <a href="https://github.com/MOHAMMED-143"></a>
 
 </p>
 
@@ -54,10 +54,10 @@
 ![Alt text](https://media1.giphy.com/media/hv13U4h8Y7hEdCQ0Ik/giphy.webp?cid=6c09b9522ee6b1814c8c70ffe3bae780c736cb7da859a527&rid=giphy.webp&ct=g)
 
 <p align="center">
-<a href="https://github.com/MOHAMED-143/DECOMPILE-STORE"><img title="DECOMPILE-STORE" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAMED-143&repo=DECOMPILE-STORE&theme=vision-friendly-dark"></a>
+<a href="https://github.com/MOHAMMED-143/DECOMPILE-STORE"><img title="DECOMPILE-STORE" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAMMED-143&repo=DECOMPILE-STORE&theme=vision-friendly-dark"></a>
 
 <p align="center">
-<a href="https://github.com/MOHAMED-143/DECOMPILE-STORE"><img title="File-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAMED-143&repo=File-Pro&theme=vision-friendly-dark"></a>
+<a href="https://github.com/MOHAMMED-143/DECOMPILE-STORE"><img title="File-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAMMED-143&repo=File-Pro&theme=vision-friendly-dark"></a>
 
 > DATABASE:
 
